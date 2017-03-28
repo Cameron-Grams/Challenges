@@ -15,7 +15,8 @@ function addTogether(args){
       }
       return a + b;
     } 
-  }}
+  }
+  }
   else {
     return a + b;
   }
