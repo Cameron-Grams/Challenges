@@ -2,7 +2,8 @@ function pairwise(arr, arg){
 
   var total = 0;
 
-  if (arr.length === 0){
+
+ if (arr.length === 0){
     return 0;
   }
 
