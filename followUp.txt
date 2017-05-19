@@ -1,0 +1,2 @@
+ pairwise
+ smallest common, no repeats
